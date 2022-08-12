@@ -1,0 +1,17 @@
+.banner{
+    width: 100%;
+    display:block;
+    height: 50vh;
+    background-image: url("../resources/banner.jpg");
+    background-position: 70% 50%;
+}
+#logoap{
+    display: flex;
+
+    justify-content: flex-start;
+     }
+#logointi{
+    display: flex;
+
+    justify-content: flex-start;
+     }     
