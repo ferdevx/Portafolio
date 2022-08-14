@@ -1,3 +1,11 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    height: fixed;
+    direction: column;
+    flex-wrap: nowrap;
+}
+
 .banner{
     width: 100%;
     display:block;
